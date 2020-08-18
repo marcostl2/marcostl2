@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello dev, i'm Marcos!
 
-<!--
-**marcostl2/marcostl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Intern at PlayServicos©. Enthusiast of web development technologies.
 
-Here are some ideas to get you started:
+#### Skills
+- ![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square?color=black&logo=javascript&logoColor=black)
+- ![HTML5 Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square?color=black&logo=html5&logoColor=white)
+- ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square?color=black&logo=html5&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Learning
+- ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-quare&logo=react&logoColor=white)
+- ![Vue.js Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-quare&logo=vue.js&logoColor=white)
+
+[
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/marcos006/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/marcosd.silva/) [![Gmail Badge](https://img.shields.io/badge/-marcossilvatl2@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcossilvatl2@gmail.com)](mailto:marcossilvatl2@gmail.com)
