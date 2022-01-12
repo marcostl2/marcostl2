@@ -1,6 +1,6 @@
 # Hello dev, i'm Marcos!
 
-Intern at PlayServicos©. Enthusiast of web development technologies.
+Frontend Developer at MXXR Holding. Enthusiast of web development technologies.
 
 #### Skills
 - ![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square?color=black&logo=javascript&logoColor=black)
