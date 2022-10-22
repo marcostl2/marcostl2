@@ -1,6 +1,4 @@
 ## Hello dev, i'm Marcos!
-Software Developer and Information Systems student, i'm passionate about creating interfaces. Currently i'm working with focus on ReactJS + Typescript aiming to create solutions with higher quality and productivity. I consider myself hardworking and I like to understand the product, propose solutions and improvements.
-
  <div>
   <a href="https://github.com/marcostl2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcostl2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
