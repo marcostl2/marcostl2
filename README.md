@@ -6,6 +6,9 @@ Software Developer and Information Systems student, i'm passionate about creatin
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcostl2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostl2&layout=compact&langs_count=16&theme=dracula"/>
 <div>
+ 
+ ### My LinkedIn
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos006/)](https://www.linkedin.com/in/marcos006/)
 
 ### Techs
 - ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -15,5 +18,3 @@ Software Developer and Information Systems student, i'm passionate about creatin
 
 ### Learning
 - ![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Storybook Badge](https://img.shields.io/badge/Storybook-fd79a8?style=for-the-badge&logo=storybook&logoColor=white)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos006/)](https://www.linkedin.com/in/marcos006/)
