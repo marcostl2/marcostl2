@@ -8,7 +8,7 @@ Software Developer and Information Systems student, i'm passionate about creatin
 - ![CSS3 Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 - ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![Vue.js Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-- ![Nuxt.js Badge](https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=vue.js&logoColor=black)
+- ![Nuxt.js Badge](https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=black)
 
 #### Learning
 - ![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
