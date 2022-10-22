@@ -9,10 +9,10 @@ Software Developer and Information Systems student, i'm passionate about creatin
 - ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-quare&logo=react&logoColor=white)
 - ![Vue.js Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-quare&logo=vue.js&logoColor=white)
 
-
 #### Learning
 - ![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-quare&logo=next.js&logoColor=white)
-- ![Storybook Badge](https://img.shields.io/badge/-Storybook-#fd79a8?style=flat-quare&logo=storybook&logoColor=white)
+- ![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Storybook Badge](https://img.shields.io/badge/Storybook-#fd79a8?style=flat-quare&logo=storybook&logoColor=white)
 
 [
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos006/)](https://www.linkedin.com/in/marcos006/)
