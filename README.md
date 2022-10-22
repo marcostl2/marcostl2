@@ -12,6 +12,7 @@ Software Developer and Information Systems student, i'm passionate about creatin
 
 #### Learning
 - ![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-quare&logo=next.js&logoColor=white)
+- ![Storybook Badge](https://img.shields.io/badge/-Storybook-#fd79a8?style=flat-quare&logo=storybook&logoColor=white)
 
 [
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos006/)](https://www.linkedin.com/in/marcos006/)
