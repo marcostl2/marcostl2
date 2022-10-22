@@ -1,6 +1,6 @@
 # Hello dev, i'm Marcos!
 
-Frontend Developer at MXXR Holding. Enthusiast of web development technologies.
+Software Developer and Information Systems student, i'm passionate about creating interfaces. Currently i'm working with focus on ReactJS + Typescript aiming to create solutions with higher quality and productivity. I consider myself hardworking and I like to understand the product, propose solutions and improvements.
 
 #### Skills
 - ![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square?color=black&logo=javascript&logoColor=black)
