@@ -1,9 +1,4 @@
 ## Hello dev, i'm Marcos!
- /*<div>
-  <a href="https://github.com/marcostl2">
-   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=marcostl2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcostl2&langs_count=4a"/> 
-<div>*/
  
  ## My LinkedIn
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos006/)](https://www.linkedin.com/in/marcos006/)
